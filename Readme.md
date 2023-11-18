@@ -2,6 +2,17 @@
 
 Welcome to the C-Programming CheatSheet repository! This curated collection of 130 C programming problems and solutions is designed to enhance your skills and serve as a comprehensive reference for developers at all levels.
 
+## File Folder Structure 
+
+This is how the repository looks like. It will give you a straight-forward roadmap on how to start with the basics to the advanced concepts.
+
+```bash
+  - Topic
+   - Problem
+      - File.c (Code)
+      - Readme.md (Theoritical Explaination)
+```
+    
 
 ## 🚀 Features
 
