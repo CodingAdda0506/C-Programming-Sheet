@@ -10,7 +10,6 @@ This is how the repository looks like. It will give you a straight-forward roadm
   - Topic
    - Problem
       - File.c (Code)
-      - Readme.md (Theoritical Explaination)
 ```
     
 
